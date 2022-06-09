@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/IDP%20Tools.ipa?alt=media&amp;token=6269cc06-bc26-4cb7-abdd-7c945949559f</string>
+		<string>https://github.com/akarapontdev1996/idptool-adhoc/blob/main/IDP%20Tools.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+		<string>https://github.com/akarapontdev1996/idptool-adhoc/blob/main/icon.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+		<string>https://github.com/akarapontdev1996/idptool-adhoc/blob/main/icon.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
