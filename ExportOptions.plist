@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/IDP%20Tools.ipa?alt=media&amp;token=6269cc06-bc26-4cb7-abdd-7c945949559f</string>
+		<key>displayImageURL</key>
+		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+		<key>fullSizeImageURL</key>
+		<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.companyname.IDPToolV2</key>
+		<string>IDPTools-adhoc</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>GMX7Y5H22U</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

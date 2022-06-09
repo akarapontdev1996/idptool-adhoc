@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDP Tools.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>40</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D367FBC07A8D3667A59D24BD106AE4058EDC6A12</string>
+				<key>dateExpires</key>
+				<string>18/6/2565 BE</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D367FBC07A8D3667A59D24BD106AE4058EDC6A12</string>
+						<key>dateExpires</key>
+						<string>18/6/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMX7Y5H22U</string>
+						<key>name</key>
+						<string>Nauticomm Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D367FBC07A8D3667A59D24BD106AE4058EDC6A12</string>
+						<key>dateExpires</key>
+						<string>18/6/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMX7Y5H22U</string>
+						<key>name</key>
+						<string>Nauticomm Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D367FBC07A8D3667A59D24BD106AE4058EDC6A12</string>
+						<key>dateExpires</key>
+						<string>18/6/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>path_provider_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMX7Y5H22U</string>
+						<key>name</key>
+						<string>Nauticomm Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D367FBC07A8D3667A59D24BD106AE4058EDC6A12</string>
+						<key>dateExpires</key>
+						<string>18/6/2565 BE</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>shared_preferences_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMX7Y5H22U</string>
+						<key>name</key>
+						<string>Nauticomm Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GMX7Y5H22U.com.companyname.IDPToolV2</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GMX7Y5H22U</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>80d8cdd3-10bb-4d0f-9701-3fd9b4ca0ed2</string>
+				<key>dateExpires</key>
+				<string>18/6/2565 BE</string>
+				<key>name</key>
+				<string>IDPTools-adhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GMX7Y5H22U</string>
+				<key>name</key>
+				<string>Nauticomm Company Limited</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

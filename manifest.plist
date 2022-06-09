@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/IDP%20Tools.ipa?alt=media&amp;token=6269cc06-bc26-4cb7-abdd-7c945949559f</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://firebasestorage.googleapis.com/v0/b/idptool-c0d6e.appspot.com/o/icon.png?alt=media&amp;token=9dbdb676-5dec-41ad-b2ea-23ddf382cabf</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.companyname.IDPToolV2</string>
+				<key>bundle-version</key>
+				<string>2.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>Runner</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
